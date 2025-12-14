@@ -43,7 +43,7 @@ Deep Learning • Computer Vision • NLP • LLMs • Transformers • XGBoost 
 Azure • Databricks • Docker • Git • PySpark
 
 ## GitHub Stats
-[![Shravan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravnchandr&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Shravan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravnchandr&show_icons=true&theme=transparent&hide_title=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravnchandr&layout=compact&show_icons=true&theme=transparent)
 
 ## Let's Connect
