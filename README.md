@@ -42,6 +42,9 @@ Deep Learning • Computer Vision • NLP • LLMs • Transformers • XGBoost 
 **Cloud & MLOps**  
 Azure • Databricks • Docker • Git • PySpark
 
+## GitHub Stats
+[![Shravan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravnchandr)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Let's Connect
 
 I'm actively looking for **AI/ML opportunities** where I can contribute to meaningful, accessibility-focused projects. Always happy to collaborate on novel ideas or just chat about ML!
