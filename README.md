@@ -56,8 +56,9 @@ CNN + Transformer architecture on 200-class, 35K-sample dataset. Achieved 80.85%
 
 ## GitHub Stats
 
-[![Shravan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravnchandr&show_icons=true&theme=transparent&hide_title=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravnchandr&layout=compact&show_icons=true&theme=transparent)
+[![Shravan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravnchandr&show_icons=true&theme=transparent&hide_title=true&hide_rank=false&cache_seconds=1800)](https://github.com/shravnchandr)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravnchandr&layout=compact&show_icons=true&theme=transparent&cache_seconds=1800)](https://github.com/shravnchandr)
 
 ---
 
