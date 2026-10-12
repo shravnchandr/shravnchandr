@@ -8,7 +8,7 @@ I'm a **Master of Data Science** candidate at the University of British Columbia
 
 At Bosch I:
 - Deployed autoencoder-based anomaly detection that shortened component validation cycles by **4 months**, with an estimated **€300K+** in annualized savings
-- Built Databricks/PySpark pipelines over **80+ TB** of sensor telemetry, cutting per-partition processing time by **50%+**
+- Built Databricks/PySpark pipelines over **40+ TB** of sensor telemetry, cutting per-partition processing time by **50%+**
 - Built **Valfred**, a multi-agent GenAI data assistant that cut routine data lookups from 10–15 minutes to about **1–2 minutes** for ~30 beta users
 - Led a TensorFlow → PyTorch migration that reduced training time by **48%**
 
